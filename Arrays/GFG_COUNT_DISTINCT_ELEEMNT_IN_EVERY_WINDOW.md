@@ -1,3 +1,7 @@
+## CODE
+
+```
+
 class Solution {
     ArrayList<Integer> countDistinct(int arr[], int k) {
         ArrayList<Integer> ll = new ArrayList<>();

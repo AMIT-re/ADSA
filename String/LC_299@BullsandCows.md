@@ -1,3 +1,7 @@
+## CODE
+https://leetcode.com/problems/bulls-and-cows/submissions/1750215124
+```
+
 import java.util.*;
 
 class Solution {

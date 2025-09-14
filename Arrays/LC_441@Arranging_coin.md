@@ -1,3 +1,7 @@
+## CODE
+https://leetcode.com/problems/arranging-coins/submissions/1754239671
+```
+
 class Solution {
     public int arrangeCoins(int n) {
         int count=0;

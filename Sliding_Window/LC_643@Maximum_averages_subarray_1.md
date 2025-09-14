@@ -1,3 +1,7 @@
+## CODE
+https://leetcode.com/problems/maximum-average-subarray-i/submissions/1770467929
+```
+
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
         int sum=0;

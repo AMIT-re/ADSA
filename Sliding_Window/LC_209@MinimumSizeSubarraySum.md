@@ -1,3 +1,6 @@
+## CODE
+https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1770490094
+```
 
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
@@ -17,7 +20,5 @@ class Solution {
 
         }
         return (min == Integer.MAX_VALUE) ? 0 : min;
-
-        
     }
 }

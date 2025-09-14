@@ -1,3 +1,7 @@
+## CODE
+https://leetcode.com/problems/majority-element-ii/submissions/1754345001
+```
+
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
         HashMap<Integer,Integer> hm=new HashMap<>();

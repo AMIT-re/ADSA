@@ -1,8 +1,6 @@
 ## CODE
-
-```java
-// paste your code here
-
+https://leetcode.com/problems/count-hills-and-valleys-in-an-array/submissions/1754272200
+```
 
 class Solution {
     public int countHillValley(int[] nums) {

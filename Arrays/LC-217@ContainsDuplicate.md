@@ -1,4 +1,8 @@
 
+## CODE
+https://leetcode.com/problems/contains-duplicate/submissions/1748452904
+```
+
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         HashMap<Integer,Integer> hm=new HashMap<>();

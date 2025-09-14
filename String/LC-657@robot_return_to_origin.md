@@ -1,6 +1,6 @@
 ## CODE
-
-```java
+https://leetcode.com/problems/robot-return-to-origin/submissions/1746174007
+```
 
 class Solution {
     public boolean judgeCircle(String moves) {

@@ -1,3 +1,7 @@
+## CODE
+https://leetcode.com/problems/two-sum/submissions/1697492085
+```
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer,Integer> hm=new HashMap<>();

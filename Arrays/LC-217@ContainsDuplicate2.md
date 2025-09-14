@@ -1,3 +1,7 @@
+## CODE
+https://leetcode.com/problems/contains-duplicate-ii/submissions/1763309705
+```
+
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         HashMap<Integer,Integer> hm =new HashMap<>();
