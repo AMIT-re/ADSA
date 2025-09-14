@@ -1,3 +1,7 @@
+## CODE
+https://leetcode.com/problems/maximum-subarray/submissions/1767140564
+```
+
 class Solution {
     public int maxSubArray(int[] nums) {
         int ans=nums[0];
