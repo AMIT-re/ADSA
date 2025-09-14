@@ -1,5 +1,7 @@
-
 ## CODE
+
+```java
+// paste your code here
 
 
 class Solution {
