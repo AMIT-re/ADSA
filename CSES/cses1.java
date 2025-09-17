@@ -1,3 +1,4 @@
+package CSES;
 import java.io.*;
 
 public class cses1 {
